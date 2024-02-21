@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/projects/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\utillib.dir\\utillib.cpp.obj -c D:\\projects\\utillib.cpp",
+  "file": "D:\\projects\\utillib.cpp",
+  "output": "CMakeFiles\\utillib.dir\\utillib.cpp.obj"
+}
+]
